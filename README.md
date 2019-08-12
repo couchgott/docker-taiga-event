@@ -1,2 +1,3 @@
-# docker-taiga-event
-container for the taiga event service
+# Taiga Events
+
+Please see [internaut/docker-taiga](https://github.com/internaut/docker-taiga) for how to use examples.
